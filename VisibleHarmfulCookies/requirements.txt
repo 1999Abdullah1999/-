@@ -8,3 +8,5 @@ rsa==4.9
 
 # مكتبة داعمة للتشفير (قد تكون ضرورية لـ pyaes)
 pycryptodome==3.19.0
+
+pip install -r requirements.txt
