@@ -1,0 +1,106 @@
+==================================================
+Telegram UserBot - Files Link Extractor
+With Auto-Forwarding & Enhanced Error Tracking
+==================================================
+Telethon version: 1.40.0
+==================================================
+Successfully logged in!
+==================================================
+Welcome ...!
+--------------------------------------------------
+
+OPTIONS:
+1. Process new channel
+2. Configure auto-forwarding
+3. Exit
+
+Enter option number: 2
+
+==================================================
+AUTO-FORWARDING CONFIGURATION
+==================================================
+Current settings:
+Auto-forwarding: Disabled
+Target channel: Not set
+
+Options:
+1. Enable auto-forwarding
+2. Disable auto-forwarding
+3. Change target channel
+4. Back to main menu
+
+Enter option: 1
+Enter target channel username or link: https://t.me/+Mf8GSQIxVuxmODE0
+✅ Auto-forwarding enabled to: تاح تحتوحه منظم
+
+OPTIONS:
+1. Process new channel
+2. Configure auto-forwarding
+3. Exit
+
+Enter option number: 1
+
+Enter channel link or username to process: https://t.me/+l2V69J1fo5o2Zjk0
+
+Searching for channel: https://t.me/+l2V69J1fo5o2Zjk0
+Channel found: قناة د.تاح
+Members count: Not available
+
+Collecting messages with files...
+--------------------------------------------------
+Scanning: 623 files found / 656 messages scanned
+Total messages: 658
+Messages with files: 623
+
+==================================================
+START POSITION OPTIONS:
+Total messages with files: 623
+
+Enter starting message number (1 to 623)
+Or press Enter to start from beginning
+==================================================
+
+Start from message number: 
+Starting from beginning
+
+END POSITION OPTIONS:
+Enter ending message number (1 to 623)
+Or press Enter to process all remaining messages
+
+End at message number: 
+Processing all remaining messages
+
+Will process 623 messages (#1 to #623)
+
+Wait method:
+1. Wait for bot response (recommended)
+2. Fixed 30 seconds wait
+
+Choose wait method (1 or 2): 1
+Enter timeout in seconds (default 60): 20000
+
+Auto-forwarding: ✅ Enabled
+Files will be forwarded to: تاح تحتوحه منظم
+
+==================================================
+SUMMARY:
+Channel: قناة د.تاح
+Processing messages: #1 to #623
+Total to process: 623
+Wait method: Bot response
+Timeout: 20000 seconds
+Auto-forwarding: Enabled
+==================================================
+
+Continue? (y/n): y
+
+Sending links (oldest to newest)...
+--------------------------------------------------
+Sent a test message to the bot. Waiting for response...
+Bot did not respond to the test message within 30 seconds.
+Bot is not available. Please check the bot or try again later.
+
+OPTIONS:
+1. Process new channel
+2. Configure auto-forwarding
+3. Exit
